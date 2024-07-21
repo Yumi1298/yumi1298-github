@@ -5,27 +5,14 @@
 - **E-mail**：nhb12980712@gmail.com
 
 ## 專業技能
-
-### Web 開發
-- JavaScript / jQuery / Node.js
-
-### Web 框架
-- React.js
-
-### 前端切版
-- HTML5 / CSS / RWD / Bootstrap
-
-### 前端美編
-- Photoshop (PS) / Figma
-
-### 後端相關
-- PHP / MySQL / Node
-
-### 版本管理
-- Git
+- Web 開發 :JavaScript / jQuery / Node.js
+- Web 框架 :React.js
+- 前端切版 :HTML5 / CSS / RWD / Bootstrap
+- 前端美編:Photoshop (PS) / Figma
+- 後端相關: PHP / MySQL / Node
+- 版本管理: Git
 
 ## 技能詳述
-
 1. **HTML5**：熟悉應用 HTML 標籤，能獨立切版，不依賴 Bootstrap 切出符合客戶需求的頁面。
 2. **CSS3**：了解如何正確使用 display 屬性（如 grid、flex、position、z-index、box-model），熟悉 pseudo element。
 3. **響應式網頁設計 (RWD)**：可手刻切版，不依賴套件，適用於手機、平板和桌電的頁面。
